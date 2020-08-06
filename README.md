@@ -30,4 +30,3 @@ python main.py
 ```
 To render the training frames add ```--render_tests``` argument after main.py.  
 To start from a particular checkpoint add ```--checkpoint "checkpoint_name"``` argument replacing checkpoint_name with the name of the checkpoint file.  
-The checkpoint file is uploaded in the checkpoint folder.
