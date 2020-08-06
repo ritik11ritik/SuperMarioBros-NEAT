@@ -5,3 +5,19 @@ The goal of this project is to develop an AL based agent that can learn how to p
 
 ### Requirements
 This project uses python 3.7
+To install retro library and use it to make the environment:
+  1. Install the library using pip
+```
+  pip install gym-retro
+```
+  2. Import the game using the command (The .nes file should be in your working directory)
+```
+  python -m retro.import /path/to/your/working/directory
+```
+
+To install neat library using pip:
+```
+pip install neat-python
+```
+
+### Run
